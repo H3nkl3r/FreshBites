@@ -62,10 +62,10 @@ npm start
 
 Meet the team behind FreshBites:
 
-- **[Annika Hecking-Veltman](https://www.linkedin.com/in/annika-hecking-veltman-a5590b19b/)**
-- **[Mathis Hoffmann](https://www.linkedin.com/in/mathis-hoffmann/)**
+- **[Annika Hecking-Veltman]()**
+- **[Mathis Hoffmann]()**
 - **[Timo Kühne](https://www.linkedin.com/in/timo-kuehne/)**
-- **[Xena Striebel](https://www.linkedin.com/in/xena-striebel/)**
+- **[Xena Striebel]()**
 
 ## 🎓 Acknowledgments
 
