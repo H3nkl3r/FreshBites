@@ -29,7 +29,7 @@ Ensure you have the following accounts set up before you proceed:
 1. Clone the repository using this command:
 
 ```bash
-git clone https://gitlab.lrz.de/seba-master-2023/team-02/prototype.git
+git clone https://github.com/H3nkl3r/FreshBites.git
 ```
 
 2. Install NPM packages using this command:
@@ -63,7 +63,7 @@ npm start
 Meet the team behind FreshBites:
 
 - **[Annika Hecking-Veltman]()**
-- **[Mathis Hoffmann]()**
+- **[Mathis Hoffmann](https://www.linkedin.com/in/mathis-hoffmann/)**
 - **[Timo Kühne](https://www.linkedin.com/in/timo-kuehne/)**
 - **[Xena Striebel]()**
 
